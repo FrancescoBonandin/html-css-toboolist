@@ -36,10 +36,7 @@ main{
     color: white;
 }
 
-.unselected{
-    border: 1px solid grey;
-    color: grey;
-}
+
 /*---------*/
 
 /*----HEADER----*/
@@ -83,6 +80,11 @@ h1{
     padding: 5px;
     margin: 1.5% 0 0 1%;
     border-radius: 10px;
+}
+
+.unselected{
+    border: 1px solid grey;
+    color: grey;
 }
 
 /*------------------------------*/
